@@ -6,7 +6,7 @@ Nim : 312210320
 
 Latihan Bahasa Pemrograman ( Python )
 
-#Latihan 1
+# Latihan 1
 
 Pertama, jalankan perintah yang paling dasar yaitu 'print( )' untuk string gunakan tanda petik seperti 'print(" ")'.
 
@@ -16,7 +16,7 @@ ketika kita 'run' hasil outputnya akan berupa kata yang kita ketik.
 
 ![Screenshot (35)](https://user-images.githubusercontent.com/115516617/197120313-7be14965-cc7d-4695-b000-7f1b733ceaaf.png)
 
-#Latihan 2
+# Latihan 2
 
 Pertama, buat input angka yang ingin dimasukkan
 
@@ -30,7 +30,7 @@ Lalu masukkan angka yang ingin dijumlahkan , hasilnya seperti dibawah ini :
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/115516617/197122405-3c42a3fd-88d4-4e66-ae05-4a3ae30dd6d2.png)
 
-#Latihan 3
+# Latihan 3
 
 Python juga mempunyai fungsi 'input( )' cara penggunaannya adalah 
 
